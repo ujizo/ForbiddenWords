@@ -1,4 +1,14 @@
-Написание текста
+<div align="center">
+
+# ForbiddenWords
+
+### Приложение для поиска запрещённых слов на C# Windows Forms
+
+<img src="src/preview.png" width="800" alt="ForbiddenWords Preview">
+
+</div>
+
+---
 
 # ForbiddenWords
 
